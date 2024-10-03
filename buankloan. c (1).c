@@ -8,7 +8,7 @@ preprocessor directive --scanf(), printf ()
 int main () {
 int age;
 float income;
-printf("enter the age of person ");
+printf("enter the age of person ");//Input from user
 scanf("%d",&age);
 printf("enter the income of recipient");
 scanf("%f",&income);
