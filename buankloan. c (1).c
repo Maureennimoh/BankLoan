@@ -1,5 +1,5 @@
-/*Author:Alex Mwangi
-Registration number:CT101/G/23713/24
+/*Author:Maureen Wirimu
+Registration number:CT101/G/23565/24
 Date:28th September 2024
 program for determining eligibility of a person to get a loan
 preprocessor directive --scanf(), printf () 
